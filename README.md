@@ -213,12 +213,12 @@ To populate the database with sample users, channels, and videos:
 
 After seeding, you can log in as:
 
-| Username | Email               | Password          |
-| -------- | ------------------- | ----------------- |
-| admin    | admin@example.com   | Admin@Secure2024! |
-| Alice    | alice@example.com   | password123       |
-| Bob      | bob@example.com     | password123       |
-| Charlie  | charlie@example.com | password123       |
+| Username                             | Email               | Password          |
+| ------------------------------------ | ------------------- | ----------------- |
+| admin [Created when Server Starts]   | admin@example.com   | Admin@Secure2024! |
+| Alice [Dummy User through seeding]   | alice@example.com   | password123       |
+| Bob [Dummy User through seeding]     | bob@example.com     | password123       |
+| Charlie [Dummy User through seeding] | charlie@example.com | password123       |
 
 ---
 
