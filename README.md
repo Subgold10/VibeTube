@@ -130,12 +130,6 @@ PORT=7272
 MONGO=your-mongodb-uri
 JWT=your-secret-key
 
-**Working MongoDB Atlas [.env] with pre uploaded seedDummyData - WILL Be REMOVED Later**
-
-MONGO=mongodb+srv://yoi1:fywkDt3P0hFnNSvi@cluster0.n0r5fqd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-JWT=your-secret-key-here
-PORT=7272
-
 ```
 
 ---
