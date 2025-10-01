@@ -1,7 +1,7 @@
 ## VibeTube (YouTube Clone)
 
 SUBHA GOLDAR
-** Intenshala Capstone Project **
+** Internship Assignment Project **
 
 A full-stack YouTube clone built with the MERN stack (MongoDB, Express, React, Node.js).
 
